@@ -1,0 +1,6 @@
+{
+  "name": "Our Little Universe 💜",
+  "description": "Un pequeño universo interactivo creado especialmente para ti con amor y código.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
